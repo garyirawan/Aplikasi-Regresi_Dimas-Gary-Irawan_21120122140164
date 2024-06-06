@@ -1,6 +1,6 @@
-TUGAS METODE NUMERIK - Aplikasi Regresi untuk Pemecahan Problem
-Dimas Gary Irawan - 21120122140164
-Metode Numerik / Kelas D
+TUGAS METODE NUMERIK - Aplikasi Regresi untuk Pemecahan Problem <br/>
+Dimas Gary Irawan - 21120122140164 <br/>
+Metode Numerik / Kelas D <br/>
 
 Hasil dari setiap metode:
 
